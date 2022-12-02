@@ -1,4 +1,4 @@
-# Before getting started
+# Before getting started.
 
 - You need [Node.js](https://nodejs.org/en/download/) and [MongoDB](https://docs.mongodb.com/manual/installation/) installed.   
 - Replace the `.env.example` file by a `.env` file and fill the `TOKEN_SECRET` var
